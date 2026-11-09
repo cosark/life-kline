@@ -250,6 +250,10 @@ ADMIN_VOUCHER_PASSWORD=secure-password   # 兑换券管理密码
 
 ---
 
+## 🚀 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Life%20K-Line/)
+
 ## 🏗️ 项目架构
 
 ### 技术栈
